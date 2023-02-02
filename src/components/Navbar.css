@@ -1,0 +1,21 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+}
+
+.left,
+.right {
+    display: flex;
+
+}
+
+
+.right {
+    gap: 1vw;
+    align-items: center;
+    margin-right: 4gitvw;
+    margin-left: 65vw;
+}
+
+
