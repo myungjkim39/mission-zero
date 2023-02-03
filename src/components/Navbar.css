@@ -1,21 +1,39 @@
 .navbar {
-    display: flex;
-    justify-content: flex-end;
-    align-content: center;
+  display: flex;
+  justify-content: flex-end;
+  align-content: center;
+  height: 7vh;
+  background-color: #aa1f23;
+  color: #f6f5f1;
 }
 
+.menu:hover {
+  box-shadow: inset 100px 0 0 0 #54b3d6;
+  color: yellow;
+}
 .left,
 .right {
-    display: flex;
-
+  display: flex;
+  align-items: center;
+  font-family: Georgia, Serif;
 }
-
 
 .right {
-    gap: 1vw;
-    align-items: center;
-    margin-right: 4gitvw;
-    margin-left: 65vw;
+  gap: 1vw;
+  margin-right: 4vw;
+  margin-left: 60vw;
+  font-size: 120%;
 }
 
+.left {
+  font-size: 160%;
+}
 
+.Login {
+  padding: 5px 20px;
+  font-size: 80%
+}
+
+.Login:hover {
+   color: #54b3d6
+}

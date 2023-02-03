@@ -1,0 +1,23 @@
+.search-pic {
+  height: 50vh;
+  background-image: url("https://wallpaperaccess.com/full/1078909.jpg");
+  background-repeat: repeat, repeat;
+  background-size: 100% 100%;
+  opacity: 0.8;
+}
+
+:hover {
+  opacity: 1;
+}
+
+.search-wrapper {
+    margin-top: 25vh;
+    padding: 2vh 10vw;
+    border-color: black;
+} 
+
+.search {
+    padding: 2vh 5vw;
+    background-color: #aa1f23;
+    border-color: black;
+}

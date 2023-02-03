@@ -1,0 +1,50 @@
+.images {
+  display: flex;
+  align-items: center;
+  height: 40vh; 
+}
+
+.guitar1 {
+  display: flex;
+  background-image: url("http://cdn.ecommercedns.uk/files/2/229692/9/13005369/dsc01918.jpg");
+  background-size: 100% 100%;
+  height: 30vh;
+  width: 20vw;
+  margin-left: 10vw;
+}
+
+.guitar2 {
+    display: flex;
+    background-image: url("https://rockshop.sirv.com/media/catalog/product/2/0/2021_tygsminiekoa_3.jpg");
+    background-size: 100% 100%;
+    height: 40vh;
+    width: 30vw;
+    margin-left: 5vw;
+  }
+
+  .guitar3 {
+    display: flex;
+    background-image: url("https://www.taylorguitars.com/sites/default/files/styles/multi_column_module_guitar_light/public/images/2021-10/TAYLOR-COLLECTIONSPAGE-BE-912CE-NAT.jpeg?itok=JNk5K_Sr");
+    background-size: 100% 100%;
+    height: 30vh;
+    width: 20vw;
+    margin-left: 5vw;
+  }
+
+  .guitar-info1 {
+    display:flex;
+    margin-top: 32vh;
+    margin-left: 1.5vw;
+  }
+
+  .guitar-info2 {
+    display:flex;
+    margin-top: 37vh;
+    margin-left: 10vw;
+  }
+
+  .guitar-info3 {
+    display:flex;
+    margin-top: 32vh;
+    margin-left: 2.5vw;
+  }
